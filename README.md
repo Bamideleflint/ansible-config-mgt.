@@ -1,5 +1,5 @@
 # ansible-config-mgt.
 
-### Testing Ansible
+### Testing Ansible.
 
 ### Jenkins Is Working Again
